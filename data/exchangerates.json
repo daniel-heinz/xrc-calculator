@@ -1,0 +1,74 @@
+{
+  "AUD": {
+    "__deprecation_message__": "This API endpoint is deprecated and will stop working on June 1st, 2018. For more information please visit: https://github.com/fixerAPI/fixer#readme",
+    "base": "AUD",
+    "date": "2018-04-26",
+    "rates": {
+      "CAD": 0.97187,
+      "EUR": 0.62228,
+      "GBP": 0.542,
+      "JPY": 82.682,
+      "USD": 0.75719
+    }
+  },
+  "CAD": {
+    "__deprecation_message__": "This API endpoint is deprecated and will stop working on June 1st, 2018. For more information please visit: https://github.com/fixerAPI/fixer#readme",
+    "base": "CAD",
+    "date": "2018-04-26",
+    "rates": {
+      "AUD": 1.0289,
+      "EUR": 0.64029,
+      "GBP": 0.55769,
+      "JPY": 85.075,
+      "USD": 0.7791
+    }
+  },
+  "EUR": {
+    "__deprecation_message__": "This API endpoint is deprecated and will stop working on June 1st, 2018. For more information please visit: https://github.com/fixerAPI/fixer#readme",
+    "base": "EUR",
+    "date": "2018-04-26",
+    "rates": {
+      "AUD": 1.607,
+      "CAD": 1.5618,
+      "GBP": 0.871,
+      "JPY": 132.87,
+      "USD": 1.2168
+    }
+  },
+  "GBP": {
+    "__deprecation_message__": "This API endpoint is deprecated and will stop working on June 1st, 2018. For more information please visit: https://github.com/fixerAPI/fixer#readme",
+    "base": "GBP",
+    "date": "2018-04-26",
+    "rates": {
+      "AUD": 1.845,
+      "CAD": 1.7931,
+      "EUR": 1.1481,
+      "JPY": 152.55,
+      "USD": 1.397
+    }
+  },
+  "JPY": {
+    "__deprecation_message__": "This API endpoint is deprecated and will stop working on June 1st, 2018. For more information please visit: https://github.com/fixerAPI/fixer#readme",
+    "base": "JPY",
+    "date": "2018-04-26",
+    "rates": {
+      "AUD": 0.012095,
+      "CAD": 0.011754,
+      "EUR": 0.0075262,
+      "GBP": 0.0065553,
+      "USD": 0.0091578
+    }
+  },
+  "USD": {
+    "__deprecation_message__": "This API endpoint is deprecated and will stop working on June 1st, 2018. For more information please visit: https://github.com/fixerAPI/fixer#readme",
+    "base": "USD",
+    "date": "2018-04-26",
+    "rates": {
+      "AUD": 1.3207,
+      "CAD": 1.2835,
+      "EUR": 0.82183,
+      "GBP": 0.71581,
+      "JPY": 109.2
+    }
+  }
+}
